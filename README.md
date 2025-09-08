@@ -1,4 +1,4 @@
-# Excel Sales Dashboard – Sales Analysis  
+# Sales Analysis-Excel
 
 An **interactive and dynamic Sales Dashboard built in Microsoft Excel** to analyze sales performance, identify trends, and provide actionable insights.  
 
