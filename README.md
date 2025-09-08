@@ -49,7 +49,8 @@ The dashboard consolidates raw sales data into **visual reports** using Pivot Ta
 
 ## 📸 Dashboard Preview  
 
-![Sales Dashboard](sales_analysis.png)  
+<img width="1295" height="785" alt="sales_dashboard" src="https://github.com/user-attachments/assets/1b6b90cf-c1ef-4b5c-80fa-c4df01a99a35" />
+  
 
 ---
 
